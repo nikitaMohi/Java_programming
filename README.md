@@ -7,6 +7,11 @@
    And Everthing in java is treated as Dynamic Memory Allocation as per the java is Dynamic programming langauge
    
    It supports the  Inbuilt Multithreading facility
+
+   Java supports the Automatic Garbage collection
+
+
+
   
 
 
