@@ -136,25 +136,6 @@ Java-Programming-Concepts/
 
 Ensure Java is installed by running `java -version`.
 
----
-
-## Learning Progress
-
-| Topic | Status |
-|-------|--------|
-| Java Basics | Completed |
-| Control Statements | Completed |
-| Arrays and Strings | Completed |
-| Methods | Completed |
-| OOP Concepts | Completed |
-| Exception Handling | Completed |
-| Collections Framework | Completed |
-| Multithreading | Completed |
-| Java 8 Streams | Completed |
-| JDBC | Completed |
-| Data Structures and Algorithms in Java | Completed |
-
----
 
 ## Contributing
 
