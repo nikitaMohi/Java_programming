@@ -85,23 +85,6 @@ This repository documents my Java learning journey. Programs are added regularly
 
 Additional topics will be added as I continue learning.
 
----
-
-## Repository Structure
-
-```
-Java-Programming-Concepts/
-    01_Basics/
-    02_Control_Flow/
-    03_Arrays_and_Strings/
-    04_Methods/
-    05_OOP/
-    06_Exception_Handling/
-    07_Collections/
-    08_Advanced_Concepts/
-    README.md
-```
-
 ## Technologies and Tools
 
 | Tool | Purpose |
